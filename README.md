@@ -20,3 +20,5 @@ You can download all the datasets through the Link: https://pan.baidu.com/s/19Vs
 
 
 ![Variability in RGB-TIR image pairings presented in the dataset.](https://gist.github.com/maweihong/27a0e4ee91464f8ccb046186bf75cb54?permalink_comment_id=5121539#gistcomment-5121539 "Variability in RGB-TIR image pairings presented in the dataset.")
+
+![Variability in RGB-TIR image pairings presented in the dataset.](https://gist.github.com/maweihong/27a0e4ee91464f8ccb046186bf75cb54?permalink_comment_id=5121552#gistcomment-5121552)
