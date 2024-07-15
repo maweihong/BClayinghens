@@ -12,3 +12,7 @@ You can download all the datasets through the Link: https://pan.baidu.com/s/19Vs
 
 
 ![The dataset contains various morphological variations of individual laying hens](https://gist.github.com/maweihong/27a0e4ee91464f8ccb046186bf75cb54?permalink_comment_id=5121536#gistcomment-5121536 "The dataset contains various morphological variations of individual laying hens.")
+
+![Diverse conditions of caged laying hens in the dataset.](https://gist.github.com/maweihong/27a0e4ee91464f8ccb046186bf75cb54?permalink_comment_id=5121537#gistcomment-5121537 "Diverse conditions of caged laying hens in the dataset.")
+
+![Variability in RGB-TIR image pairings presented in the dataset.](https://gist.github.com/maweihong/27a0e4ee91464f8ccb046186bf75cb54?permalink_comment_id=5121539#gistcomment-5121539 "Variability in RGB-TIR image pairings presented in the dataset.")
