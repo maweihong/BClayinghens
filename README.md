@@ -12,7 +12,7 @@ You can download all the datasets through the Link: https://pan.baidu.com/s/19Vs
 
 # Display
 
-![The dataset contains various morphological variations of individual laying hens](https://github.com/maweihong/BClayinghens/blob/main/images/The%20dataset%20contains%20various%20morphological%20variations%20of%20individual%20laying%20hens.png")
+![The dataset contains various morphological variations of individual laying hens](https://github.com/maweihong/BClayinghens/blob/main/images/The%20dataset%20contains%20various%20morphological%20variations%20of%20individual%20laying%20hens.png)
 
 
 ![Diverse conditions of caged laying hens in the dataset](https://github.com/maweihong/BClayinghens/blob/main/images/Diverse%20conditions%20of%20caged%20laying%20hens%20in%20the%20dataset.png)
