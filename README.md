@@ -12,11 +12,11 @@ You can download all the datasets through the Link: https://pan.baidu.com/s/19Vs
 
 # Display
 
-![The dataset contains various morphological variations of individual laying hens](https://gist.github.com/maweihong/27a0e4ee91464f8ccb046186bf75cb54?permalink_comment_id=5121536#gistcomment-5121536 "The dataset contains various morphological variations of individual laying hens.")
+![The dataset contains various morphological variations of individual laying hens](https://github.com/maweihong/BClayinghens/blob/main/images/The%20dataset%20contains%20various%20morphological%20variations%20of%20individual%20laying%20hens.png")
 
 
-![Diverse conditions of caged laying hens in the dataset.](https://gist.github.com/maweihong/27a0e4ee91464f8ccb046186bf75cb54?permalink_comment_id=5121537#gistcomment-5121537 "Diverse conditions of caged laying hens in the dataset.")
+![Diverse conditions of caged laying hens in the dataset](https://github.com/maweihong/BClayinghens/blob/main/images/Diverse%20conditions%20of%20caged%20laying%20hens%20in%20the%20dataset.png)
 
 
-![Variability in RGB-TIR image pairings presented in the dataset.](https://gist.github.com/maweihong/27a0e4ee91464f8ccb046186bf75cb54?permalink_comment_id=5121539#gistcomment-5121539 "Variability in RGB-TIR image pairings presented in the dataset.")
+![Variability in RGB-TIR image pairings presented in the dataset.](https://github.com/maweihong/BClayinghens/blob/main/images/Variability%20in%20RGB-TIR%20image%20pairings%20presented%20in%20the%20dataset.png)
 
